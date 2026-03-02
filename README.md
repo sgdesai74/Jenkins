@@ -40,3 +40,6 @@ Features of Fingerprints and Artifacts in Jenkins:
 4. Tracking File Usage: View file flow through the CI/CD pipeline.
 5. Security and Integrity: Detect file changes or corruption through fingerprinting.
 6. Build Visibility: Access build outputs and file usage for better transparency.
+
+<img width="1150" height="911" alt="image" src="https://github.com/user-attachments/assets/d7a1f16b-76f6-486b-b2c7-05d45d660943" />
+
