@@ -15,3 +15,6 @@ Task Details
 4. Connect Ant with Jenkins
 5. Create a GIT repository
 6. Create a job in Jenkins and integrate Ant
+
+Architecture Diagram -
+<img width="1304" height="711" alt="image" src="https://github.com/user-attachments/assets/a0537c84-9fd9-419c-9ef8-b64c8f3dbf60" />
